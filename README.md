@@ -31,5 +31,8 @@ This repository contains an exploratory data analysis (EDA) and salary predictio
 ## Contribution
 Feel free to contribute by creating pull requests or submitting issues.
 
-## License
-This project is open-source and available under the MIT License.
+## Screenshots from Website
+![image](https://github.com/user-attachments/assets/4594cddb-cdf2-42a8-9437-f44594732264)
+![image](https://github.com/user-attachments/assets/745b3e2e-1e83-46fd-83f3-135279121960)
+
+
